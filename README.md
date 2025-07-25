@@ -214,13 +214,7 @@ sudo systemctl reload nginx
 
 ---
 
-## 🖼 Add Screenshot (Optional)
 
-```markdown
-![Website Screenshot](./Screenshot%202025-07-25%20at%202.41.42 pm.png)
-```
-
----
 
 ## 🎉 Done!
 
