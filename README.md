@@ -1,4 +1,4 @@
-# 📘 Full Guide: Deploying a Static Website with Nginx on AWS (10 Pages)
+# 📘 Full Guide: Deploying a Static Website with Nginx on AWS 
 
 ## 📝 Overview
 
